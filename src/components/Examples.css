@@ -1,0 +1,21 @@
+.nav-link{
+    border: none !important;
+    transition: 0.2s ease-in-out !important;
+}
+
+.nav-link:hover{
+    border: none !important;
+    color: #2490EF !important;
+}
+
+.active, .active:hover{
+    color: #2490EF !important;
+    border: none !important;
+    border-bottom: 3px solid #2490EF !important;
+}
+
+.nav{
+    border: none !important;
+}
+
+
